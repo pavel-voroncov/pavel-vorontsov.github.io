@@ -1,0 +1,76 @@
+#img_logo {
+	width: 75%;
+}
+
+p {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+/*#info_pavel {
+	color: red;
+
+    font: 2em Arial, sans-serif;
+    text-shadow: black 1px 1px 0, black -1px -1px 0, 
+                 black -1px 1px 0, black 1px -1px 0;
+}*/
+
+.but {
+	padding: 10px;
+	width: 175px;
+}
+
+#but_about {
+	background-color: yellow;
+}
+
+#but_market {
+	background-color: #c2c2c2;
+	width: 150px;
+}
+
+#but_vk {
+	background-color: #a4bedb;
+	width: 150px;
+}
+
+#but_youtube {
+	background-color: #f33;
+	width: 150px;
+}
+
+#but_imgs {
+	background-color: #ff7f7f;
+}
+
+.img_imgs {
+	width: 75%;
+}
+
+#img_ava {
+	width: 35%;
+	margin-left: 50px;
+	float: left;
+}
+
+#img_about {
+	margin-left: 57px;
+}
+
+#color_text_about {
+	color: #abacaf;
+}
+
+#VK_com {
+	margin-left: 10px;
+	width: 5%;
+}
+
+#YT_com {
+	margin-left: 10px;
+	width: 5%;
+}
+
+#text_sites {
+	float: left;
+}
